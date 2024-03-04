@@ -11,7 +11,6 @@
 
 (function() {
     'use strict';
-
-    // Your code here...
+    
     document.querySelectorAll("rt").forEach(dom => dom.remove());
 })();
